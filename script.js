@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Q1: Evaluate JavaScript Expressions
 var q1Output = [
     -9 * 3,
@@ -179,7 +179,7 @@ function displayAverageOfIntegers() {
     var average = sum / (num + 1);
     alert("The average of integers from 0 to " + num + " is: " + average);
 }
-=======
+
 // Q1: Evaluate JavaScript Expressions
 document.getElementById("q1Output").textContent = `
 1. ${-9 * 3}
@@ -259,4 +259,4 @@ function printNumberAsText() {
             break;
     }
 }
->>>>>>> 6375bef95e5b88eb54bf76968c7ada7b69354c2e
+
